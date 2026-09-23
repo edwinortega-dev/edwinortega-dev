@@ -49,15 +49,15 @@ Full Stack Developer with hands-on experience building mobile apps and REST APIs
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=edwinortega-dev&show_icons=true&theme=transparent&title_color=CBA135&icon_color=CBA135&text_color=A8A49F&border_color=333333&cache_seconds=86400">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=edwinortega-dev&show_icons=true&theme=transparent&title_color=856611&icon_color=856611&text_color=5C584F&border_color=E0E0E0&cache_seconds=86400">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=edwinortega-dev&show_icons=true&theme=transparent&title_color=856611&icon_color=856611&text_color=5C584F&border_color=E0E0E0&cache_seconds=86400" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=edwinortega-dev&background=00000000&border=333333&stroke=A8A49F&ring=CBA135&fire=CBA135&currStreakNum=F5F5F5&sideNums=A8A49F&currStreakLabel=CBA135&sideLabels=A8A49F&dates=75726C&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=edwinortega-dev&background=00000000&border=E0E0E0&stroke=5C584F&ring=856611&fire=856611&currStreakNum=1C1C1C&sideNums=5C584F&currStreakLabel=856611&sideLabels=5C584F&dates=8A867C&hide_border=true">
+  <img height="160" src="https://streak-stats.demolab.com/?user=edwinortega-dev&background=00000000&border=E0E0E0&stroke=5C584F&ring=856611&fire=856611&currStreakNum=1C1C1C&sideNums=5C584F&currStreakLabel=856611&sideLabels=5C584F&dates=8A867C&hide_border=true" alt="GitHub streak stats" />
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinortega-dev&layout=compact&theme=transparent&title_color=CBA135&text_color=A8A49F&border_color=333333&cache_seconds=86400">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinortega-dev&layout=compact&theme=transparent&title_color=856611&text_color=5C584F&border_color=E0E0E0&cache_seconds=86400">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinortega-dev&layout=compact&theme=transparent&title_color=856611&text_color=5C584F&border_color=E0E0E0&cache_seconds=86400" />
-</picture>
+
+<br/>
+
+![Followers](https://img.shields.io/github/followers/edwinortega-dev?style=flat&label=Followers&color=242424&logoColor=CBA135)
+![Public repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/edwinortega-dev&label=Public%20Repos&query=public_repos&style=flat&color=242424)
 
 </div>
 
